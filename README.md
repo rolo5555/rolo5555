@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @rolo5555.
-- 👀 I’m interested in learn as much as i can.
-- 🌱 I’m currently learning AWS. 
-- 💞️ I’m looking to collaborate on any types of projects.
+- 👀 I’m interested in learn as much as I can.
 - 📫 How to reach me : rolando.cabrera@ib.edu.ar
 
 <!---
