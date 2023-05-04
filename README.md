@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rolo5555.
-- 👀 I’m interested in learn as much as I can.
+- 👀 I’m interested in learning as much as I can.
 - 📫 How to reach me : rolando.cabrera@ib.edu.ar
 
 <!---
